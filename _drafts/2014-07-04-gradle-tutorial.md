@@ -13,3 +13,5 @@ funciona Gradle.
 [Building and Testing with Gradle](http://gradleware.com/registered/books/building-and-testing/index.html)
 
 [Gradle: the new android build system](http://www.gradleware.com/android/gradle-the-new-android-build-system/)
+
+[Android Gradle Plugin User Guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
