@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another sample
+comments: true
 categories:
 - blog
 ---
