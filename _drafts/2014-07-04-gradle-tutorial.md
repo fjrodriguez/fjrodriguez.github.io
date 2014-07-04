@@ -11,3 +11,5 @@ Android Studio trabaja con Gradle para compilar los proyectos de Android. El sig
 funciona Gradle.
 
 [Building and Testing with Gradle](http://gradleware.com/registered/books/building-and-testing/index.html)
+
+[Gradle: the new android build system](http://www.gradleware.com/android/gradle-the-new-android-build-system/)
