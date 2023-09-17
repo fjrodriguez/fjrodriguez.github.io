@@ -17,16 +17,16 @@ social:
   gplus: +PacoRodríguez73
   gravatar: fcojesusrm
 
-  # "Hi, I'm _______"
-  name: Paco Rodríguez
-  email: pako.rodriguez@gmail.com
-  tagline: "weak opinions, strongly held"
+# "Hi, I'm _______"
+name: Paco Rodríguez
+email: pako.rodriguez@gmail.com
+tagline: "weak opinions, strongly held"
 
-  # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-52341475-1
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-52341475-1
 
-  # Toggle "Postings are my own" disclaimer in footer
-  show_disclaimer: true
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true
 
-  # Toggle link/icon to view atom feed (/atom.xml) in side bar
-  show_atom_feed: true
+# Toggle link/icon to view atom feed (/atom.xml) in side bar
+show_atom_feed: true
