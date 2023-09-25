@@ -18,7 +18,7 @@
 
 ## Cómo aprender la gramática Japonesa
 
-* [Tae Kim’s Guide to Japanese Grammar](https://guidetojapanese.org/learn/grammar)
+* [Tae Kim’s Guide to Japanese Grammar](https://guidetojapanese.org/learn)
 * [An Introduction to Japanese](https://pomax.github.io/nrGrammar/)
 
 ## Diccionario Japonés - Inglés
