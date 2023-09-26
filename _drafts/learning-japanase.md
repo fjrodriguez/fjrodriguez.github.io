@@ -34,6 +34,10 @@
 * [Anki Flashcards](https://apps.ankiweb.net/)
     * Video de Youtube explicando su funcionamiento: [Cómo estudiar mejor con Active Recall y Repetición espaciada](https://www.youtube.com/watch?v=98pbPqlkBlc)
 
+## Sitios para ver contenido japonés
+
+* [NHK World - Japan](https://www3.nhk.or.jp/nhkworld/es/)
+
 ## Sitios para ver Anime
 
 * [crunchyroll](https://www.crunchyroll.com/es-es)
