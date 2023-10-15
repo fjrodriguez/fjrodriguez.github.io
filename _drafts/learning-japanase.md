@@ -2,32 +2,58 @@
 
 * Sitio de Reddit para aprender japonés: [Learn Japanese](https://www.reddit.com/r/LearnJapanese/) 
 * Video de Youtube para aprender japonés desde cero: [How to Start Learning Japanese from NOTHING](https://www.youtube.com/watch?v=sISIVKJh_EA)
-* Video de Youtube para usar el teclado en japonés: [Cómo usar el teclado en japonés](https://www.youtube.com/watch?v=OIRwTnNsLLg)
+* Videos de Youtube para usar el teclado en japonés: 
+    * [Cómo usar el teclado en japonés](https://www.youtube.com/watch?v=OIRwTnNsLLg)
+    * [Tutorial para usar el teclado japonés](https://www.youtube.com/watch?v=M7JeWFi4NxY)
+* [NOKEN contra MCER](https://dekobokobooks.com/2019/01/11/noken-contra-mcer/)
+* [A year to learn Japanese](https://www.reddit.com/r/LearnJapanese/comments/fohull/a_year_to_learn_japanese_reflections_on_five/)
+* [Japonés Básico](https://japonesbasico.com/)
 
-## Cómo aprender el alfabeto HIRAGANA
+## Cómo aprender el alfabeto HIRAGANA y KATAKANA
 
 * [Learn ALL Hiragana in 1 Hour - How to Write and Read Japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc&t=1474s)
-
-## Cómo aprender el alfabeto KATAKANA
-
 * [Learn ALL Katakana in 1 Hour - How to Write and Read Japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
+* [DJT Kana](https://djtguide.neocities.org/kana/)
+* [Cómo aprender HIRAGANA y KATAKANA en dos semanas](https://kira-teachings.com/courses/curso-de-hiragana-y-katakana-en-dos-semanas/)
+* [Read the Kanji](ttps://www.readthekanji.com)
+* [TODO HIRAGANA COMPLETO !! ¡Aprende a pronunciarlo como nativo!](https://www.youtube.com/watch?v=BhJSdwRFvLg)
 
 ## Cómo aprender el alfabeto KANJI
 
 * [KanjiDamage](https://www.kanjidamage.com/)
+* [Kodansha kanji learner's course (KKLC) PDF](https://mega.nz/#!ncYFXTyJ!KXwmhJu4QogtPasf0wt_zxyGvIfnm4gXxKsmdIv51sQ)
+    * [How to study with the Kanji Leaner's Course](https://keystojapanese.com/how-to-study/)
+* [The Kanji Map](https://thekanjimap.com/)
+* [wanikani.com](https://www.wanikani.com/)
+* [Diccionario Kanji](https://japonesbasico.com/kanji/)
 
 ## Cómo aprender la gramática Japonesa
 
-* [Tae Kim’s Guide to Japanese Grammar](https://guidetojapanese.org/learn)
+* [Tae Kim’s Guide to Japanese Grammar](https://gohoneko.neocities.org/grammar/taekim)
 * [An Introduction to Japanese](https://pomax.github.io/nrGrammar/)
+* [Youtube Core Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
+* [IMABI](https://djtguide.github.io/grammar/imabi.html)
+* [昨日 Sakubi grammar](https://djtguide.github.io/learn/anon/sakubi.html)
 
 ## Diccionario Japonés - Inglés
 
 * [jisho.org](https://jisho.org/)
+* Yomichan. Extensión Chrome Browser: [Yomichan](https://www.tofugu.com/japanese-learning-resources-database/yomichan/)
 
 ## Sitios online para aprender japonés
 
 * [ToFuGu](http://tofugu.com)
+* [japanesepod101.com](https://www.japanesepod101.com/)
+* [TheMoeWay](https://learnjapanese.moe/)
+* [DJT Guide to Japanes](https://djtguide.neocities.org)
+* [Kira-Teachings](https://kira-teachings.com/)
+* [Japanese learning guide](https://donkuri.github.io/learn-japanese/guide/)
+* [NativSharks](https://app.nativshark.com/)
+* [Minato JF Japanese e-learning](https://minato-jf.jp/)
+
+## Tiendas para comprar libros de texto
+
+* [Aprende Japonés Hoy](https://www.aprendejaponeshoy.com/es/)
 
 ## Apps para estudiar japonés
 
