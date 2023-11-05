@@ -17,6 +17,7 @@
 * [Cómo aprender HIRAGANA y KATAKANA en dos semanas](https://kira-teachings.com/courses/curso-de-hiragana-y-katakana-en-dos-semanas/)
 * [Read the Kanji](ttps://www.readthekanji.com)
 * [TODO HIRAGANA COMPLETO !! ¡Aprende a pronunciarlo como nativo!](https://www.youtube.com/watch?v=BhJSdwRFvLg)
+* [Practise your knowledge of Japanese alphabets](https://www.gyford.com/japanese/)
 
 ## Cómo aprender el alfabeto KANJI
 
@@ -35,10 +36,11 @@
 * [IMABI](https://djtguide.github.io/grammar/imabi.html)
 * [昨日 Sakubi grammar](https://djtguide.github.io/learn/anon/sakubi.html)
 
-## Diccionario Japonés - Inglés
+## Diccionarios Japoneses
 
 * [jisho.org](https://jisho.org/)
 * Yomichan. Extensión Chrome Browser: [Yomichan](https://www.tofugu.com/japanese-learning-resources-database/yomichan/)
+* [weblio.jp](https://www.weblio.jp/)
 
 ## Sitios online para aprender japonés
 
@@ -50,6 +52,7 @@
 * [Japanese learning guide](https://donkuri.github.io/learn-japanese/guide/)
 * [NativSharks](https://app.nativshark.com/)
 * [Minato JF Japanese e-learning](https://minato-jf.jp/)
+* [Refold](https://refold.la/es/)
 
 ## Tiendas para comprar libros de texto
 
@@ -67,3 +70,7 @@
 ## Sitios para ver Anime
 
 * [crunchyroll](https://www.crunchyroll.com/es-es)
+
+## Sitios para encontrar trabajo en Japón.
+
+* [We Xpats Jobs](https://we-xpats.com/en/destination/as/jp/)
