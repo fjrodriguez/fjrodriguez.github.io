@@ -27,6 +27,7 @@
 * [The Kanji Map](https://thekanjimap.com/)
 * [wanikani.com](https://www.wanikani.com/)
 * [Diccionario Kanji](https://japonesbasico.com/kanji/)
+* [RTK resources for free](https://www.youtube.com/watch?v=LxGlMt9bRvo)
 
 ## Cómo aprender la gramática Japonesa
 
@@ -53,10 +54,15 @@
 * [NativSharks](https://app.nativshark.com/)
 * [Minato JF Japanese e-learning](https://minato-jf.jp/)
 * [Refold](https://refold.la/es/)
+* [IORODORI Japanase Online Course](https://www.irodori-online.jpf.go.jp/)
 
 ## Tiendas para comprar libros de texto
 
 * [Aprende Japonés Hoy](https://www.aprendejaponeshoy.com/es/)
+
+## Libros en japonés
+
+* [青空文庫][https://www.aozora.gr.jp/]
 
 ## Apps para estudiar japonés
 
@@ -74,3 +80,7 @@
 ## Sitios para encontrar trabajo en Japón.
 
 * [We Xpats Jobs](https://we-xpats.com/en/destination/as/jp/)
+
+## Cultura japonesa
+
+* [BBC Japanese Language and People 1991](https://archive.org/details/BBCJapaneseLanguageAndPeopleEp00Of10PreliminaryProgram1991)
