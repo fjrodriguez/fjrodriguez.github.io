@@ -8,6 +8,7 @@
 * [NOKEN contra MCER](https://dekobokobooks.com/2019/01/11/noken-contra-mcer/)
 * [A year to learn Japanese](https://www.reddit.com/r/LearnJapanese/comments/fohull/a_year_to_learn_japanese_reflections_on_five/)
 * [Japonés Básico](https://japonesbasico.com/)
+* [The Kanshudo definitive guide to Japanese pitch accents](https://www.kanshudo.com/howto/pitch)
 
 ## Cómo aprender el alfabeto HIRAGANA y KATAKANA
 
@@ -28,6 +29,7 @@
 * [wanikani.com](https://www.wanikani.com/)
 * [Diccionario Kanji](https://japonesbasico.com/kanji/)
 * [RTK resources for free](https://www.youtube.com/watch?v=LxGlMt9bRvo)
+* [How to Learn Kanji: 18 Tips From a Guy Who Did It and Survived](https://www.fluentu.com/blog/japanese/how-to-learn-kanji/)
 
 ## Cómo aprender la gramática Japonesa
 
