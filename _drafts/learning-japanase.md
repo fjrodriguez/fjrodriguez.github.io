@@ -43,7 +43,7 @@
 
 * [jisho.org](https://jisho.org/)
 * Yomichan. Extensión Chrome Browser: [Yomichan](https://www.tofugu.com/japanese-learning-resources-database/yomichan/)
-* [weblio.jp](https://www.weblio.jp/)
+* [weblio.jp](https://www.weblio.jp/). [Weblio Japanese ↔ English](https://ejje.weblio.jp/)
 
 ## Sitios online para aprender japonés
 
