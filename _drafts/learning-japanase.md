@@ -30,6 +30,8 @@
 * [Diccionario Kanji](https://japonesbasico.com/kanji/)
 * [RTK resources for free](https://www.youtube.com/watch?v=LxGlMt9bRvo)
 * [How to Learn Kanji: 18 Tips From a Guy Who Did It and Survived](https://www.fluentu.com/blog/japanese/how-to-learn-kanji/)
+* [ruby tag tool generator to write furigana in HTML 5](https://www.kurumi.com/jp/rubytool.html)
+* [Practical Kanji Vol. 1](https://2024.ask-books.com/jp/978-4-86639-569-2/)
 
 ## Cómo aprender la gramática Japonesa
 
@@ -44,6 +46,7 @@
 * [jisho.org](https://jisho.org/)
 * Yomichan. Extensión Chrome Browser: [Yomichan](https://www.tofugu.com/japanese-learning-resources-database/yomichan/)
 * [weblio.jp](https://www.weblio.jp/). [Weblio Japanese ↔ English](https://ejje.weblio.jp/)
+* [Lorenzi's Jisho](https://jisho.hlorenzi.com/)
 
 ## Sitios online para aprender japonés
 
