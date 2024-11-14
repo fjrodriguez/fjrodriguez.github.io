@@ -9,6 +9,9 @@
 * [A year to learn Japanese](https://www.reddit.com/r/LearnJapanese/comments/fohull/a_year_to_learn_japanese_reflections_on_five/)
 * [Japonés Básico](https://japonesbasico.com/)
 * [The Kanshudo definitive guide to Japanese pitch accents](https://www.kanshudo.com/howto/pitch)
+* [Simulación del NOKEN para descargar](https://www.mitoyocenter.com/aprende-japones/preparacion-noken/recursos-noken/)
+* [Inhae's blog](https://notes.inhae.blog/)
+* [Nihongonomori](https://nihongonomori.com/)
 
 ## Cómo aprender el alfabeto HIRAGANA y KATAKANA
 
@@ -32,6 +35,7 @@
 * [How to Learn Kanji: 18 Tips From a Guy Who Did It and Survived](https://www.fluentu.com/blog/japanese/how-to-learn-kanji/)
 * [ruby tag tool generator to write furigana in HTML 5](https://www.kurumi.com/jp/rubytool.html)
 * [Practical Kanji Vol. 1](https://2024.ask-books.com/jp/978-4-86639-569-2/)
+* [Kanji alive](https://kanjialive.com/)
 
 ## Cómo aprender la gramática Japonesa
 
@@ -47,6 +51,7 @@
 * Yomichan. Extensión Chrome Browser: [Yomichan](https://www.tofugu.com/japanese-learning-resources-database/yomichan/)
 * [weblio.jp](https://www.weblio.jp/). [Weblio Japanese ↔ English](https://ejje.weblio.jp/)
 * [Lorenzi's Jisho](https://jisho.hlorenzi.com/)
+* [goo 辞書](https://dictionary.goo.ne.jp/)
 
 ## Sitios online para aprender japonés
 
@@ -60,6 +65,8 @@
 * [Minato JF Japanese e-learning](https://minato-jf.jp/)
 * [Refold](https://refold.la/es/)
 * [IORODORI Japanase Online Course](https://www.irodori-online.jpf.go.jp/)
+* [Memrise](https://app.memrise.com/)
+* [Kanshudo](https://www.kanshudo.com/)
 
 ## Tiendas para comprar libros de texto
 
@@ -68,7 +75,8 @@
 ## Libros en japonés
 
 * [青空文庫][https://www.aozora.gr.jp/]
-
+* [Dokusho Bookclub](https://dokushoclub.com/)
+* [Tadoku books](https://tadoku.org/japanese/en/)
 ## Apps para estudiar japonés
 
 * [Anki Flashcards](https://apps.ankiweb.net/)
