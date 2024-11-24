@@ -1,8 +1,0 @@
-# General Jekyll Config
-markdown: kramdown
-pygments: true
-highlighter: rouge
-url: http://fjrodriguez.github.io
-lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore]
-
