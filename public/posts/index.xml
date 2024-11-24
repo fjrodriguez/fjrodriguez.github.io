@@ -6,7 +6,14 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 21:19:52 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 11 23 a Sample Post</title>
+      <link>http://localhost:1313/posts/2024/2024-11-23-a-sample-post/</link>
+      <pubDate>Sat, 23 Nov 2024 21:19:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/2024-11-23-a-sample-post/</guid>
+      <description>Probando &amp;ldquo;Hugo&amp;rdquo;, un generador de páginas estáticas. Muy parecido a Jekyll.</description>
+    </item>
   </channel>
 </rss>

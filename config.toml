@@ -1,0 +1,6 @@
+[params]
+  Name = "Paco Rodríguez"
+  HeaderUsername = "paco"
+  HeaderHostname = "nixos"
+  About = "info_about_you"
+
