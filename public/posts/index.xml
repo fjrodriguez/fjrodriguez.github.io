@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Paco Rodríguez Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Paco Rodríguez Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2024 21:19:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2024 11 23 a Sample Post</title>
-      <link>http://localhost:1313/posts/2024/2024-11-23-a-sample-post/</link>
-      <pubDate>Sat, 23 Nov 2024 21:19:52 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/2024-11-23-a-sample-post/</guid>
-      <description>&lt;p&gt;Probando &amp;ldquo;Hugo&amp;rdquo;, un generador de páginas estáticas. Muy parecido a Jekyll.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Paco Rodríguez Site</title>
+        <link>http://localhost:38505/posts/</link>
+        <description>All Posts | Paco Rodríguez Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>eo</language><lastBuildDate>Sat, 23 Nov 2024 21:19:52 &#43;0000</lastBuildDate><atom:link href="http://localhost:38505/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2024 11 23 a Sample Post</title>
+    <link>http://localhost:38505/posts/2024/2024-11-23-a-sample-post/</link>
+    <pubDate>Sat, 23 Nov 2024 21:19:52 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:38505/posts/2024/2024-11-23-a-sample-post/</guid>
+    <description><![CDATA[<p>Probando &ldquo;Hugo&rdquo;, un generador de páginas estáticas. Muy parecido a Jekyll.</p>]]></description>
+</item>
+</channel>
 </rss>

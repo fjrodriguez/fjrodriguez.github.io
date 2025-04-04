@@ -1,4 +1,4 @@
 baseURL = 'http://fjrodriguez.github.io'
-languageCode = 'en-us'
+languageCode = 'eo'
 title = 'Paco Rodríguez Site'
-theme = "nix"
+theme = "LoveIt"
