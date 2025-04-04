@@ -1,11 +1,16 @@
 +++
-title = 'Japanese_resources'
+title = "Japanaj rimedoj"
 date = 2025-04-04T22:28:00+01:00
 draft = false
+author = "Paco Rodríguez"
+description = "Rimedoj por studi la japanan."
+tags = ["japana"]
+categories = ["lingvoj"]
 +++
-# Enkonduko
+## 1 Enkonduko
 
 Ŝi estas bela.
 
-## Japanaj rimedoj
+## 2 Japanaj rimedoj
 
+Rimedoj por studi la japanan.
