@@ -13,4 +13,5 @@ categories = ["lingvoj"]
 
 ## 2 Japanaj rimedoj
 
-Rimedoj por studi la japanan.
+[食]^(た)べる
+

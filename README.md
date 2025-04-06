@@ -1,8 +1,12 @@
-Se siguió el tutorial en:
+## 1 Cómo configurar Hugo
 
-https://kinsta.com/es/blog/hugo-sitio-estatico/
+* [Cómo construir un sitio estático rapidísimo con Hugo](https://kinsta.com/es/blog/hugo-sitio-estatico/)
 
-Para configurar el tema Nix:
+* [A clean, elegant but advanced blog theme for Hugo](https://hugoloveit.com/)
 
-https://themes.gohugo.io/themes/hugo-theme-nix/
+### 1.2 Cómo configurar Hugo con IPFS
+
+[IPFS](https://ipfs.tech/) permite almacenar ficheros en una red peer-to-peer. Se explica en el siguiente enlace. 
+
+[Hugo con IPFS](https://www.gonzalezmas.es/post/2021-01-11-blog-parte-1/)
 
