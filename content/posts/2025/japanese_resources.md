@@ -83,7 +83,7 @@ categories = ["lingvoj"]
 
 ## 8 Libros en japonés
 
-* [青空文庫][https://www.aozora.gr.jp/]
+* [青空文庫](https://www.aozora.gr.jp/)
 * [Dokusho Bookclub](https://dokushoclub.com/)
 * [Tadoku books](https://tadoku.org/japanese/en/)
 
