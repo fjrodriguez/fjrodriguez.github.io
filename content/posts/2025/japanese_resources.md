@@ -28,7 +28,7 @@ categories = ["lingvoj"]
 * [Learn ALL Katakana in 1 Hour - How to Write and Read Japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
 * [DJT Kana](https://djtguide.neocities.org/kana/)
 * [Cómo aprender HIRAGANA y KATAKANA en dos semanas](https://kira-teachings.com/courses/curso-de-hiragana-y-katakana-en-dos-semanas/)
-* [Read the Kanji](ttps://www.readthekanji.com)
+* [Read the Kanji](https://www.readthekanji.com)
 * [TODO HIRAGANA COMPLETO !! ¡Aprende a pronunciarlo como nativo!](https://www.youtube.com/watch?v=BhJSdwRFvLg)
 * [Practise your knowledge of Japanese alphabets](https://www.gyford.com/japanese/)
 
