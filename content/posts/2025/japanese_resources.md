@@ -103,7 +103,9 @@ categories = ["lingvoj"]
 
 ## 12 Sitios para encontrar trabajo en Japón.
 
+* [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/j_info/visit/visa/long/index.html)
 * [We Xpats Jobs](https://we-xpats.com/en/destination/as/jp/)
+* [GaijinPot Jobs](https://jobs.gaijinpot.com/en/)
 
 ## 13 Cultura japonesa
 
