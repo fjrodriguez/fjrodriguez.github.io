@@ -77,6 +77,7 @@ categories = ["lingvoj"]
 * [Memrise](https://app.memrise.com/)
 * [Kanshudo](https://www.kanshudo.com/)
 * [Renshuu](https://www.renshuu.org/)
+* [Bunpro](https://bunpro.jp/es)
 
 ## 7 Tiendas para comprar libros de texto
 
