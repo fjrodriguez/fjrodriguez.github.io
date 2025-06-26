@@ -53,6 +53,7 @@ categories = ["lingvoj"]
 * [Youtube Core Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
 * [IMABI](https://djtguide.github.io/grammar/imabi.html)
 * [昨日 Sakubi grammar](https://djtguide.github.io/learn/anon/sakubi.html)
+* [Japolatino](https://www.kimisikita.org/)
 
 ## 5 Diccionarios Japoneses
 
