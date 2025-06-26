@@ -78,6 +78,7 @@ categories = ["lingvoj"]
 * [Kanshudo](https://www.kanshudo.com/)
 * [Renshuu](https://www.renshuu.org/)
 * [Bunpro](https://bunpro.jp/es)
+* [Miku Real Japanese](https://www.mikurealjapanese.com/)
 
 ## 7 Tiendas para comprar libros de texto
 
