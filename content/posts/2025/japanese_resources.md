@@ -21,6 +21,8 @@ categories = ["lingvoj"]
 * [Simulación del NOKEN para descargar](https://www.mitoyocenter.com/aprende-japones/preparacion-noken/recursos-noken/)
 * [Inhae's blog](https://notes.inhae.blog/)
 * [Nihongonomori](https://nihongonomori.com/)
+* [Los fundamentos del acento japonés | 2 reglas y 4 patrones](https://www.youtube.com/watch?v=c9OArpr2A78)
+* [Basics of Japanese Pitch Accent](https://www.youtube.com/watch?v=jt04eg9T2sE)
 
 ## 2 Cómo aprender el alfabeto HIRAGANA y KATAKANA
 
@@ -104,7 +106,7 @@ categories = ["lingvoj"]
 
 * [crunchyroll](https://www.crunchyroll.com/es-es)
 
-## 12 Sitios para encontrar trabajo en Japón.
+## 12 Sitios para encontrar trabajo en Japón
 
 * [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/j_info/visit/visa/long/index.html)
 * [We Xpats Jobs](https://we-xpats.com/en/destination/as/jp/)
